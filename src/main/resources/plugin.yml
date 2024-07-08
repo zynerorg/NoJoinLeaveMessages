@@ -1,0 +1,7 @@
+name: NoJoinLeaveMessages
+version: 1.0.0
+main: net.zervo.nojoinleavemessages.NoJoinLeaveMessages
+description: A plugin that disables join/leave/kick messages
+author: Zervo
+website: https://git.zervo.org/
+api-version: '1.21'
